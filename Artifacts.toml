@@ -1,0 +1,68 @@
+[[RAxML]]
+arch = "i686"
+git-tree-sha1 = "1c697b035edca933f95826b75d8497132664f194"
+libc = "glibc"
+os = "linux"
+
+    [[RAxML.download]]
+    sha256 = "cde6508efc1ebbdffd7ac97ab961156725974bce9626b4d6699e06bff7566c52"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.i686-linux-gnu.tar.gz"
+[[RAxML]]
+arch = "i686"
+git-tree-sha1 = "4872699c582f63c2baab85681f22ee1be3dfc931"
+libc = "musl"
+os = "linux"
+
+    [[RAxML.download]]
+    sha256 = "b766d52a49d1f7efc6c1835cfa9579f1145484af9978df9567e5ccb260307ee4"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.i686-linux-musl.tar.gz"
+[[RAxML]]
+arch = "i686"
+git-tree-sha1 = "bfb10051a4ca9c54903c6327b832fb8f4ff5c472"
+os = "windows"
+
+    [[RAxML.download]]
+    sha256 = "b2d1c5728cd4fb26c74a2695ab13b3f71cf716ca16079378fceb5ca4566b4781"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.i686-w64-mingw32.tar.gz"
+[[RAxML]]
+arch = "x86_64"
+git-tree-sha1 = "e361fd87851418cbc206673718f29bf9d7c2af02"
+os = "macos"
+
+    [[RAxML.download]]
+    sha256 = "ff84208e136755390e62864c6f0204a1d84fe20f3d4db4fc19b26b2431b99bac"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.x86_64-apple-darwin.tar.gz"
+[[RAxML]]
+arch = "x86_64"
+git-tree-sha1 = "c49525a068e8e953c61d860794e628ff021cbeba"
+libc = "glibc"
+os = "linux"
+
+    [[RAxML.download]]
+    sha256 = "21f532f1a559ab2e41856430c581420d13f07d795ebe1e0da1669c0e9bd2aa60"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.x86_64-linux-gnu.tar.gz"
+[[RAxML]]
+arch = "x86_64"
+git-tree-sha1 = "f8b0721e7debde549b80d7a77df53d0a6ba9d269"
+libc = "musl"
+os = "linux"
+
+    [[RAxML.download]]
+    sha256 = "7670480a2945c1c8605b0e83b9d741f52949b00af0e640659fb86f6a66e83561"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.x86_64-linux-musl.tar.gz"
+[[RAxML]]
+arch = "x86_64"
+git-tree-sha1 = "f5703485a5ed63008cfe7483598b450632199093"
+os = "freebsd"
+
+    [[RAxML.download]]
+    sha256 = "0f7836a8ec211c84ec3ee36e846e0368bbfb85559e1dad36c9c59431aafc5755"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.x86_64-unknown-freebsd.tar.gz"
+[[RAxML]]
+arch = "x86_64"
+git-tree-sha1 = "8157139a0fa1b620c139878bd827833bebc6694e"
+os = "windows"
+
+    [[RAxML.download]]
+    sha256 = "43a017f2600c88b79447766308c47e69d51f8bcc28c34a19285f870265ada907"
+    url = "https://github.com/JuliaBinaryWrappers/RAxML_jll.jl/releases/download/RAxML-v8.2.12+0/RAxML.v8.2.12.x86_64-w64-mingw32.tar.gz"
